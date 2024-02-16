@@ -1,20 +1,18 @@
-# Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
+# Vídeo: Desvendando a Revolução Tecnológica: IA Generativa e Seu Impacto nos Negócios Modernos 🎥
 
 ## 📒 Descrição
-Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
+Este vídeo de 6 segundos apresenta o tema que está sendo tratado no E-book. Com a apresentação do seu tema "Desvendando a Revolução Tecnológica: IA Generativa e Seu Impacto nos Negócios Modernos".
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
 - IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
-- Software **[Adobe Premiere](https://www.adobe.com/products/premiere.html)** para edição de vídeo.
 
 ## 🧐 Processo de Criação
-Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo. A montagem e edição foram realizadas no Adobe Premiere para garantir qualidade profissional.
+Usei o "D-ID", pela primeira vez, para escrever e especificar o texto que seria transmitido no vídeo. No "D-ID" enviei uma foto pessoal para criar o avatar, mas sendo minha imagem, mas utilizando uma voz sintetizada. 
 
 ## 🚀 Resultados
-O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
+O vídeo é uma porta de uma nova dimensão de possibilidades de criação, de novas objetivos, novos desafios e, principalmente, oportunidades.
 
-[LINK PARA O VÍDEO AQUI]()
+[LINK PARA O VÍDEO AQUI](https://drive.google.com/open?id=1FzHvZsZ2ZxnoeupfTV9cfQpP7CT2V0WT&usp=drive_fs)
 
 ## 💭 Reflexão
-Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
+Este projeto foi uma experiência incrível tanto pelos novos conhecimentos e práricas, além do conteúdo do aprendizado, que cada vez mais reconheço que é o meu caminho, e sem volta.
