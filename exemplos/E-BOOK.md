@@ -22,7 +22,7 @@ Utilizei o "ChatGPT", "Copilot" e o "Gemini" para revisar minha pesquisa sobre I
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação, na disseminação do conhecimento e ferramenta muito importante, ao ser humano e negócios, possibilitando melhor produtividade e tomada de decisões mais acertivas, mas com conteúdo simples, para apenas realizar o exercício do curso, para adquirir experiência. Com o tempo irei desenvolver, com certeza, material próprio para o aprendizado da importância da IA para os novos negócios, para a Ciência de Dados, Business Intelligence e Machine Learning e como utilizá-la para obter melhores resultados e produtividade, com as ferramentas Power BI, Python e plataformas Azure e AWS.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://drive.google.com/open?id=1FzueMathC-VTiZhxHL7mfbpP3iXFAD1Y&usp=drive_fs)
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos, além de me proporcionar uma nova visão de possibilidade e oportunidades.
